@@ -93,10 +93,22 @@ Além disso, a tela 04 existe para cada categoria: Eletricistas, Encanadores, T�
 
 Todas as telas são montadas com instâncias dos componentes, e as cores são variáveis: alterar um token ou componente atualiza o projeto inteiro. As 35 variáveis da coleção "Chamaí · Protótipo" guardam o profissional, o dia e o horário escolhidos durante a navegação.
 
-![Fluxo principal, telas 01 a 04](assets/telas-01-04.png)
-![Fluxo principal, telas 05 a 07](assets/telas-05-07.png)
-![Telas complementares](assets/telas-complementares.png)
-![Design system](assets/design-system.png)
+### Fluxo principal
+
+![01 Boas-vindas, 02 Cadastro, A2 Verificação por SMS e 03 Início](assets/hd-fluxo-1.png)
+![04 Lista, 05 Perfil, 06 Agendamento e 07 Confirmação](assets/hd-fluxo-2.png)
+
+### Telas complementares
+
+![A1 Entrar, A3 Buscar, A4 Pedidos e A5 Meu perfil](assets/hd-complementares-1.png)
+![A6 Notificações, A7 Conversa e A8 Cupom ativado](assets/hd-complementares-2.png)
+![Listas de Encanadores, Técnicos de TI, Limpeza e Reparos](assets/hd-listas.png)
+
+### Design system
+
+![Cores e tipografia](assets/hd-ds-cores-tipografia.png)
+![Componentes com variantes](assets/hd-ds-componentes.png)
+![Ícones](assets/hd-ds-icones.png)
 
 ## Como navegar no protótipo
 

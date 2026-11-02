@@ -7,7 +7,7 @@ Protótipo navegável de um app de serviços residenciais, feito no Figma para o
 | **Arquivo no Figma** | https://www.figma.com/design/6urBb2iLUjp9Y3QCPD6vlR |
 | **Protótipo navegável** | https://www.figma.com/proto/6urBb2iLUjp9Y3QCPD6vlR?node-id=2-4&starting-point-node-id=2%3A4 |
 | **Documento teórico** | `Chamai - Parte Teorica (UX-UI).pdf` (e `.docx`) |
-| **Vídeo pitch** | _cole aqui o link do YouTube (não listado), Loom ou Drive_ |
+| **Vídeo pitch** | https://youtu.be/ihMo5yMqI58 (3 min 32 s) |
 | **Autor** | Wendel Ferreira |
 
 ## Objetivo do produto
